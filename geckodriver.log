@@ -1,0 +1,211 @@
+1493470335121	geckodriver	INFO	Listening on 127.0.0.1:45954
+1493472860234	geckodriver	INFO	Listening on 127.0.0.1:42501
+1493472861256	geckodriver::marionette	INFO	Starting browser /opt/firefox/firefox with args ["-marionette"]
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493472866780	Marionette	INFO	Listening on port 44027
+1493472867067	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:13454): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13454): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13454): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13454): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13408): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493473401987	geckodriver	INFO	Listening on 127.0.0.1:56188
+1493473403051	geckodriver::marionette	INFO	Starting browser /opt/firefox/firefox with args ["-marionette"]
+
+(firefox:13604): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13604): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13604): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13604): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493473406238	Marionette	INFO	Listening on port 56343
+1493473406408	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:13649): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13649): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13649): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13649): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493473412074	Marionette	INFO	New connections will no longer be accepted
+[Child 13649] WARNING: pipe error (3): Connection reset by peer: file /home/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 346
+1493473425121	geckodriver	INFO	Listening on 127.0.0.1:43712
+1493473426138	geckodriver::marionette	INFO	Starting browser /opt/firefox/firefox with args ["-marionette"]
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493473431601	Marionette	INFO	Listening on port 46362
+1493473432545	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:13748): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13748): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13748): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13748): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+JavaScript warning: http://pos.baidu.com/xcom?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1493473748248&ti=loadrunner_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1292x729&pss=1292x12673&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1493473748&rw=729&ltu=http%3A%2F%2Fbaike.baidu.com%2Flink%3Furl%3DxcrQW1riIdHsry_6H6vRcB8D-g0nNgpUnOOHA9Q-uzhUZFv67EGNjSmFiWz4AYH5ElI6FO3tjDB-zwWC7RWsatCobEl6DeIEWhqrXtmekXy&ltr=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DxcrQW1riIdHsry_6H6vRcB8D-g0nNgpUnOOHA9Q-uzhUZFv67EGNjSmFiWz4AYH5ElI6FO3tjDB-zwWC7RWsatCobEl6DeIEWhqrXtmekXy%26wd%3D%26eqid%3D975934920008f1d200000004590499d8&ecd=1&uc=1306x832&pis=-1x-1&sr=1371x856&tcn=1493473748&qn=25f95a47739b5780&tt=1493473748123.171.418.421, line 120: unreachable code after return statement
+JavaScript warning: http://pos.baidu.com/xcom?rdid=1997633&dc=3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&dcb=___adblockplus&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1493473748248&ti=loadrunner_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&dbv=0&drs=3&pcs=1292x729&pss=1292x12673&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1493473748&rw=729&ltu=http%3A%2F%2Fbaike.baidu.com%2Flink%3Furl%3DxcrQW1riIdHsry_6H6vRcB8D-g0nNgpUnOOHA9Q-uzhUZFv67EGNjSmFiWz4AYH5ElI6FO3tjDB-zwWC7RWsatCobEl6DeIEWhqrXtmekXy&ltr=http%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DxcrQW1riIdHsry_6H6vRcB8D-g0nNgpUnOOHA9Q-uzhUZFv67EGNjSmFiWz4AYH5ElI6FO3tjDB-zwWC7RWsatCobEl6DeIEWhqrXtmekXy%26wd%3D%26eqid%3D975934920008f1d200000004590499d8&ecd=1&uc=1306x832&pis=-1x-1&sr=1371x856&tcn=1493473748&qn=25f95a47739b5780&tt=1493473748123.171.418.421, line 120: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: http://strip.alicdn.com/tfscom/TB1fyu3PpXXXXamXVXXXXXXXXXX.html?tanxdspv=http%3a%2f%2frdstat.tanx.com%2ftrd%3ff%3d%26k%3da09e279ad7f7a12a%26p%3dmm_28347190_2425761_9313995%26pvid%3d0a6721a8000259049aa0d69300c2dad5%26s%3d495x60%26d%3d59420271%26t%3d1493473952&pid=mm_28347190_2425761_9313995&tp=3&tsid=0a6721a8000259049aa0d69300c2dad5&u=http%3A%2F%2Fe.firefoxchina.cn%2F&r=&tp=3&tsid=0a6721a8000259049aa0d69300c2dad5&pid=mm_28347190_2425761_9313995, line 1: NS_ERROR_NOT_INITIALIZED: 
+
+(firefox:13704): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:13704): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:13704): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+1493474018501	addons.xpi	WARN	Attempting to activate an already active default theme
+
+(firefox:13704): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13973): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13973): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13973): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:13973): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:14015): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:14015): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:14015): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:14015): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493474301095	addons.xpi	WARN	Exception running bootstrap method shutdown on firebug@software.joehewitt.com: ReferenceError: FirebugGCLICommands is not defined (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///tmp/rust_mozprofile.idAIy7BYPobi/extensions/firebug@software.joehewitt.com.xpi!/bootstrap.js:105:5) JS Stack trace: shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///tmp/rust_mozprofile.idAIy7BYPobi/extensions/firebug@bootstrap.js:105:5 < callBootstrapMethod@XPIProvider.jsm:4903:11 < updateAddonDisabledState@XPIProvider.jsm:5025:13 < set userDisabled@XPIProvider.jsm:7486:9 < set_userDisabled@extensions.xml:1085:11 < oncommand@about:addons:1:1
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:13704): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493474620904	geckodriver	INFO	Listening on 127.0.0.1:40954
+1493474621980	geckodriver::marionette	INFO	Starting browser /opt/firefox/firefox with args ["-marionette"]
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1493474629051	Marionette	INFO	Listening on port 49597
+
+(/opt/firefox/firefox:14356): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+1493474629276	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/opt/firefox/firefox:14356): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:14356): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/opt/firefox/firefox:14356): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:14305): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
